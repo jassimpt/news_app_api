@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:news_buddy/models/articles_model.dart';
-import 'package:news_buddy/views/detailsscreen.dart';
+import 'package:news_buddy/views/pages/detailsscreen.dart';
 
 class NewsCard extends StatelessWidget {
   final Articles articles;
@@ -68,6 +68,5 @@ class NewsCard extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }

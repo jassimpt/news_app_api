@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_buddy/views/onboarding_screen.dart';
+import 'package:news_buddy/views/pages/onboarding_screen.dart';
 
 void main(List<String> args) {
   runApp(Myapp());
